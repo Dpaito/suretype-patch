@@ -1,6 +1,6 @@
 {
   "name": "@configurator/suretype",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "Typesafe JSON (Schema) validator with magic powers 🧙‍♂️",
   "author": "Gustaf Räntilä",
   "license": "MIT",
